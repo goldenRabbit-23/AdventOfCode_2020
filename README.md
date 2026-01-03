@@ -12,7 +12,7 @@ Each day lives in its own folder, with:
 
 | Day | Title | Summary |
 |-----|-------|---------|
-| 01  |       |         |
+| 01  | Report Repair | Find two or three numbers that add up to 2020. |
 | 02  |       |         |
 | 03  |       |         |
 | 04  |       |         |
