@@ -15,7 +15,7 @@ Each day lives in its own folder, with:
 | 01  | Report Repair | Find two or three numbers that add up to 2020. |
 | 02  | Password Philosophy | Count how many passwords are valid under the policies. |
 | 03  | Toboggan Trajectory | Count the number of trees along a given slope on the map. |
-| 04  |       |         |
+| 04  | Passport Processing | Count the number of valid passports that adhere to the given field requirements. |
 | 05  |       |         |
 | 06  |       |         |
 | 07  |       |         |
