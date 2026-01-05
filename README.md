@@ -16,7 +16,7 @@ Each day lives in its own folder, with:
 | 02  | Password Philosophy | Count how many passwords are valid under the policies. |
 | 03  | Toboggan Trajectory | Count the number of trees along a given slope on the map. |
 | 04  | Passport Processing | Count the number of valid passports that adhere to the given field requirements. |
-| 05  |       |         |
+| 05  | Binary Boarding | Find the highest seat ID on a boarding pass and the vacant seat whose adjacent seats are occupied. |
 | 06  |       |         |
 | 07  |       |         |
 | 08  |       |         |
