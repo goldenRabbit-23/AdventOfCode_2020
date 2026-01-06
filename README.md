@@ -17,7 +17,7 @@ Each day lives in its own folder, with:
 | 03  | Toboggan Trajectory | Count the number of trees along a given slope on the map. |
 | 04  | Passport Processing | Count the number of valid passports that adhere to the given field requirements. |
 | 05  | Binary Boarding | Find the highest seat ID on a boarding pass and the vacant seat whose adjacent seats are occupied. |
-| 06  |       |         |
+| 06  | Custom Customs | Count the number of questions to which anyone or everyone answered "yes". |
 | 07  |       |         |
 | 08  |       |         |
 | 09  |       |         |
