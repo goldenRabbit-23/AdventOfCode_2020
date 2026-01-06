@@ -18,7 +18,7 @@ Each day lives in its own folder, with:
 | 04  | Passport Processing | Count the number of valid passports that adhere to the given field requirements. |
 | 05  | Binary Boarding | Find the highest seat ID on a boarding pass and the vacant seat whose adjacent seats are occupied. |
 | 06  | Custom Customs | Count the number of questions to which anyone or everyone answered "yes". |
-| 07  |       |         |
+| 07  | Handy Haversacks | Count the number of bag colors that can contain at least one *shiny gold* bag, and the total number of individual bags contained within a single *shiny gold* bag. |
 | 08  |       |         |
 | 09  |       |         |
 | 10  |       |         |
