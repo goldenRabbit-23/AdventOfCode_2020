@@ -20,7 +20,7 @@ Each day lives in its own folder, with:
 | 06  | Custom Customs | Count the number of questions to which anyone or everyone answered "yes". |
 | 07  | Handy Haversacks | Count the number of bag colors that can contain at least one *shiny gold* bag, and the total number of individual bags contained within a single *shiny gold* bag. |
 | 08  | Handheld Halting | Identify where the program enters an infinite loop, then toggle a single `jmp` or `nop` instruction so the program terminates. |
-| 09  |       |         |
+| 09  | Encoding Error | Find the first number that violates the encryption algorithm, then find a contiguous range that adds up to it. |
 | 10  |       |         |
 | 11  |       |         |
 | 12  |       |         |
