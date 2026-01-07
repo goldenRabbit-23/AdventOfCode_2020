@@ -22,7 +22,7 @@ Each day lives in its own folder, with:
 | 08  | Handheld Halting | Identify where the program enters an infinite loop, then toggle a single `jmp` or `nop` instruction so the program terminates. |
 | 09  | Encoding Error | Find the first number that violates the encryption algorithm, then find a contiguous range that adds up to it. |
 | 10  | Adapter Array | Identify the differences between adapter ratings, then compute the number of distinct arrangements of adapters. |
-| 11  |       |         |
+| 11  | Seating System | Identify the number of seats that remain occupied after people stop moving, according to the given rules. |
 | 12  |       |         |
 | 13  |       |         |
 | 14  |       |         |
