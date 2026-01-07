@@ -23,7 +23,7 @@ Each day lives in its own folder, with:
 | 09  | Encoding Error | Find the first number that violates the encryption algorithm, then find a contiguous range that adds up to it. |
 | 10  | Adapter Array | Identify the differences between adapter ratings, then compute the number of distinct arrangements of adapters. |
 | 11  | Seating System | Identify the number of seats that remain occupied after people stop moving, according to the given rules. |
-| 12  |       |         |
+| 12  | Rain Risk | Simulate the ship’s navigation instructions—first by heading, then by waypoint—and compute the ship’s final Manhattan distance. |
 | 13  |       |         |
 | 14  |       |         |
 | 15  |       |         |
