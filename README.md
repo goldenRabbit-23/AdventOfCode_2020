@@ -19,7 +19,7 @@ Each day lives in its own folder, with:
 | 05  | Binary Boarding | Find the highest seat ID on a boarding pass and the vacant seat whose adjacent seats are occupied. |
 | 06  | Custom Customs | Count the number of questions to which anyone or everyone answered "yes". |
 | 07  | Handy Haversacks | Count the number of bag colors that can contain at least one *shiny gold* bag, and the total number of individual bags contained within a single *shiny gold* bag. |
-| 08  |       |         |
+| 08  | Handheld Halting | Identify where the program enters an infinite loop, then toggle a single `jmp` or `nop` instruction so the program terminates. |
 | 09  |       |         |
 | 10  |       |         |
 | 11  |       |         |
