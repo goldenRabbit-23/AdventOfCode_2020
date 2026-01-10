@@ -26,7 +26,7 @@ Each day lives in its own folder, with:
 | 12  | Rain Risk | Simulate the ship’s navigation instructions—first by heading, then by waypoint—and compute the ship’s final Manhattan distance. |
 | 13  | Shuttle Search | Identify the earliest bus ID you can take after arriving at the sea port, and the earliest timestamp such that all buses depart in every subsequent minute. |
 | 14  | Docking Data | Find the final memory sum by masking values, then masking addresses with floating bits. |
-| 15  |       |         |
+| 15  | Rambunctious Recitation | Determine the 2020th and 30000000th numbers spoken according to the memory game rules. |
 | 16  |       |         |
 | 17  |       |         |
 | 18  |       |         |
