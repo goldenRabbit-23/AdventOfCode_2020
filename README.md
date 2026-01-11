@@ -28,7 +28,7 @@ Each day lives in its own folder, with:
 | 14  | Docking Data | Find the final memory sum by masking values, then masking addresses with floating bits. |
 | 15  | Rambunctious Recitation | Determine the 2020th and 30000000th numbers spoken according to the memory game rules. |
 | 16  | Ticket Translation | Validate nearby tickets using field rules, discard invalid ones, and deduce which field corresponds to each position. |
-| 17  |       |         |
+| 17  | Conway Cubes | Simulate 3D and 4D Conway Cubes for 6 cycles from a 2D starting plane and count active cubes. |
 | 18  |       |         |
 | 19  |       |         |
 | 20  |       |         |
