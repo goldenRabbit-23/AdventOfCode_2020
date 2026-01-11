@@ -27,7 +27,7 @@ Each day lives in its own folder, with:
 | 13  | Shuttle Search | Identify the earliest bus ID you can take after arriving at the sea port, and the earliest timestamp such that all buses depart in every subsequent minute. |
 | 14  | Docking Data | Find the final memory sum by masking values, then masking addresses with floating bits. |
 | 15  | Rambunctious Recitation | Determine the 2020th and 30000000th numbers spoken according to the memory game rules. |
-| 16  |       |         |
+| 16  | Ticket Translation | Validate nearby tickets using field rules, discard invalid ones, and deduce which field corresponds to each position. |
 | 17  |       |         |
 | 18  |       |         |
 | 19  |       |         |
