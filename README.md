@@ -30,7 +30,7 @@ Each day lives in its own folder, with:
 | 16  | Ticket Translation | Validate nearby tickets using field rules, discard invalid ones, and deduce which field corresponds to each position. |
 | 17  | Conway Cubes | Simulate 3D and 4D Conway Cubes for 6 cycles from a 2D starting plane and count active cubes. |
 | 18  | Operation Order | Evaluate each expression under two custom precedence rules (left-to-right, then `+` before `*`), respecting parentheses, and sum the answers. |
-| 19  |       |         |
+| 19  | Monster Messages | Count the messages that match rule 0, even after some rules become recursive. |
 | 20  |       |         |
 | 21  |       |         |
 | 22  |       |         |
