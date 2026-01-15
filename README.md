@@ -32,7 +32,7 @@ Each day lives in its own folder, with:
 | 18  | Operation Order | Evaluate each expression under two custom precedence rules (left-to-right, then `+` before `*`), respecting parentheses, and sum the answers. |
 | 19  | Monster Messages | Count the messages that match rule 0, even after some rules become recursive. |
 | 20  | Jurassic Jigsaw | Find the corner tiles, assemble the image by matching rotated/flipped edges, then find sea monsters in any orientation and count the remaining `#` for roughness. |
-| 21  |       |         |
+| 21  | Allergen Assessment | Identify which ingredients cannot contain any allergens, then deduce exactly which ingredient contains each allergen. |
 | 22  |       |         |
 | 23  |       |         |
 | 24  |       |         |
