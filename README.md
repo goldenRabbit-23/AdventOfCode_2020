@@ -33,7 +33,7 @@ Each day lives in its own folder, with:
 | 19  | Monster Messages | Count the messages that match rule 0, even after some rules become recursive. |
 | 20  | Jurassic Jigsaw | Find the corner tiles, assemble the image by matching rotated/flipped edges, then find sea monsters in any orientation and count the remaining `#` for roughness. |
 | 21  | Allergen Assessment | Identify which ingredients cannot contain any allergens, then deduce exactly which ingredient contains each allergen. |
-| 22  |       |         |
+| 22  | Crab Combat | Simulate the Crab Combat card game and compute the winning player's score for both regular Combat and Recursive Combat. |
 | 23  |       |         |
 | 24  |       |         |
 | 25  |       |         |
