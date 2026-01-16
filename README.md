@@ -34,6 +34,6 @@ Each day lives in its own folder, with:
 | 20  | Jurassic Jigsaw | Find the corner tiles, assemble the image by matching rotated/flipped edges, then find sea monsters in any orientation and count the remaining `#` for roughness. |
 | 21  | Allergen Assessment | Identify which ingredients cannot contain any allergens, then deduce exactly which ingredient contains each allergen. |
 | 22  | Crab Combat | Simulate the Crab Combat card game and compute the winning player's score for both regular Combat and Recursive Combat. |
-| 23  |       |         |
+| 23  | Crab Cups | Simulate the Crab Cups game on a circle of labeled cups: 100 moves on the input cups, then extend to 1,000,000 cups and run 10,000,000 moves. |
 | 24  |       |         |
 | 25  |       |         |
