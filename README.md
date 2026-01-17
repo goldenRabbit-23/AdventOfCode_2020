@@ -36,4 +36,4 @@ Each day lives in its own folder, with:
 | 22  | Crab Combat | Simulate the Crab Combat card game and compute the winning player's score for both regular Combat and Recursive Combat. |
 | 23  | Crab Cups | Simulate the Crab Cups game on a circle of labeled cups: 100 moves on the input cups, then extend to 1,000,000 cups and run 10,000,000 moves. |
 | 24  | Lobby Layout | Flip hex tiles by following direction strings, count black tiles, then run 100 days of neighbor-based flips and count again. |
-| 25  |       |         |
+| 25  | Combo Breaker | Crack a loop size from the public keys, then compute the shared encryption key with modular exponentiation. |
